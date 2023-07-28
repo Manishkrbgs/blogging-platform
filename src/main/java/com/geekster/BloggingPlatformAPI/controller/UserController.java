@@ -48,7 +48,7 @@ public class UserController {
         boolean authenticateValid = authenticationService.authenticateUser(authInput);
         if(authenticateValid) {
             userService.blogsUserSignOut(authInput);
-            return "User Signed Out Successfully!!!";
+            return "User Signed Out Successfully!..g!";
         }else {
             return "Sign out not allowed for non authenticated user.";
         }
