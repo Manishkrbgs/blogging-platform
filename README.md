@@ -67,9 +67,6 @@ ___
 - Github: [@manish-Github](https://github.com/Manishkrbgs)
 
 
-🤝 **Contributing**
-___
-Contributions, Thanks to everyone , contributing with me and know about more myself [visit my profile](https://instagram.com/manish_razzzz?igshid=MzNlNGNkZWQ4Mg==).
 
 **Show Your Support**
 ___
